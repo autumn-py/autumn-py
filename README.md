@@ -17,5 +17,5 @@ I'm a Student Programmer!
 
 ## Statistics
 <img alt="Violet's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=violet-xyz&layout=compact&theme=dracula">
-<img alt="Violet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=violet-xyz&show_icons=true&theme=radical
+<img alt="Violet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=violet-xyz&show_icons=true&theme=radical>
 ">
