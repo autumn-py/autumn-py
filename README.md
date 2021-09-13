@@ -10,6 +10,7 @@ I'm a Student Programmer!
 
 ## WIP Projects:
 - [Kuma](https://www.github.com/violetfolf/kuma) - A multi-purpose Discord bot! 👾
+- [violet-folf.xyz](https://violet-folf.xyz/) - A website holding my projects!
 
 ## Socials
 - 👾 Discord: VioletFolfo UwU#1383
