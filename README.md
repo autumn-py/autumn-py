@@ -18,4 +18,4 @@ I'm a Student Programmer!
 
 ## Statistics
 <img alt="Violet's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=violetfolf&layout=compact&theme=dracula">
-<img alt="Violet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=violetfolf&show_icons=true&theme=tokyo-night">
+<img alt="Violet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=violetfolf&show_icons=true&theme=tokyonight">
