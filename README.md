@@ -1,7 +1,4 @@
 # Violet
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K466MZO)
-<br>
-
 I'm a Student Programmer!
 
 - 📆 Started GitHub: 1 May 2021
@@ -10,10 +7,9 @@ I'm a Student Programmer!
 
 ## WIP Projects:
 - [Kuma](https://www.github.com/violetfolf/kuma) - A multi-purpose Discord bot! 👾
-- [violet-folf.xyz](https://violet-folf.xyz/) - A website holding my projects!
 
 ## Socials
-- 👾 Discord: VioletFolfo UwU#1383
+- 👾 Discord: violet <3#6969
 - 🌀 Replit: [fxcksociety](https://www.replit.com/@fxcksociety)
 
 ## Statistics
