@@ -9,7 +9,7 @@ I'm a Student Programmer!
 Pretty much nothing... might try a python bot
 
 ## Socials
-- 👾 Discord: violet <3#6969
+- 👾 Discord: violet <3#3155
 
 ## Statistics
 <img alt="Violet's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=violet-xyz&layout=compact&theme=dracula">
