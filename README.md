@@ -5,8 +5,8 @@ I'm a Student Programmer!
 - 👾 Beginner Discord Bot Engineer
 - 🌐 Beginner Website Engineer
 
-## WIP Projects:
-Pretty much nothing... might try a python bot
+## Favourite Projects:
+[Spirit](https://github.com/violet-xyz/spirit)
 
 ## Socials
 - 👾 Discord: violet <3#3155
